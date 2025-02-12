@@ -22,8 +22,8 @@ Technologies Used
 Setup
 Clone the repository:
 ```
-git clone https://github.com/your-username/to-do-app.git
-cd to-do-app
+git clone https://github.com/your-username/ToDoApp.git
+cd ToDoApp
 ```
 Build the project using Maven:
 
@@ -63,7 +63,7 @@ src
  │    ├── java
  │    │    ├── com
  │    │    │    └── example
- │    │    │         └── todoapp
+ │    │    │         └── ToDoApp
  │    │    │             ├── controller
  │    │    │             │    └── TaskController.java
  │    │    │             ├── model
