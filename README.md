@@ -41,19 +41,26 @@ Access the application:
 Open your browser and visit http://localhost:8080.
 
 Endpoints
+
 GET /: Displays the list of tasks.
+
 POST /add: Adds a new task.
+
 GET /delete/{id}: Deletes a task by its ID.
+
 GET /toggle/{id}: Toggles the task status (completed/uncompleted).
+
 Database
+
 H2 Database is used for this application. It is an in-memory database, so it will be reset every time the application restarts.
 
 You can access the H2 console at http://localhost:8080/h2-console (ensure that H2 console is enabled).
 
 Folder Structure
 
-src
 ```
+src
+
  ├── main
  │    ├── java
  │    │    ├── com
@@ -78,4 +85,5 @@ src
  └── pom.xml
 ```
 Contribution
+
 Feel free to fork this repository and create pull requests. If you find any bugs or want to suggest new features, please open an issue.
