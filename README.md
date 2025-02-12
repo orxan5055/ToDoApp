@@ -3,11 +3,11 @@ A simple To-Do List application built using Spring Boot, Thymeleaf, and H2 Datab
 
 Features
 
-Add Tasks: Create new tasks to be added to the list.
+- Add Tasks: Create new tasks to be added to the list.
 
-Delete Tasks: Remove tasks from the list.
+- Delete Tasks: Remove tasks from the list.
 
-Toggle Task Status: Mark tasks as completed or uncompleted.
+- Toggle Task Status: Mark tasks as completed or uncompleted.
 
 Technologies Used
 
