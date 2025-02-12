@@ -3,14 +3,22 @@ A simple To-Do List application built using Spring Boot, Thymeleaf, and H2 Datab
 
 Features
 Add Tasks: Create new tasks to be added to the list.
+
 Delete Tasks: Remove tasks from the list.
+
 Toggle Task Status: Mark tasks as completed or uncompleted.
+
 Technologies Used
 Spring Boot: Framework for building Java-based backend applications.
+
 Spring MVC: Model-View-Controller pattern to separate the application’s concerns.
+
 Thymeleaf: A modern server-side Java template engine for web and standalone environments.
+
 H2 Database: In-memory database for quick and lightweight storage.
+
 JUnit: For unit testing (if you decide to re-implement tests).
+
 Setup
 Clone the repository:
 ```
